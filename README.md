@@ -1,79 +1,50 @@
-<br />
+<br/>
 <p align="center">
-  <a href="http://www.freepik.com">
-    <img src="https://trello-attachments.s3.amazonaws.com/590fa896d2d25e50583de620/874x512/2bc76fc9373587c9d5ca571d19530719/4435_1.png" alt="Logo" width="250" height="150">
+  <a href="#">
+    <img src="https://s2.glbimg.com/CQesxIP5ed0q8e8qNU8-vqNapY0=/0x0:921x885/924x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2019/B/b/wzBEg4TFGwb5ZErlj3Qg/correios.jpg" alt="Logo" height="150">
   </a>
 
-  <h3 align="center">Amazing Graph</h3>
+  <h3 align="center">Web Scraping - Correios</h3>
 
   <p align="center">
-    Landing page to create amazing graphics
-       <br />
-    <br />
-    <a href="https://github.com/Lorenalgm/AmazingGraph">Challenge</a>
+    Consulte um cep e encontre o endereço
+    <br/>
+    <br/>
+    <a href="https://github.com/filiafobico/devchallenge-webscraping-correios">Challenge</a>
     ·
-    <a href="https://www.linkedin.com/in/lorenagmontes/">Contact</a>
+    <a href="https://www.linkedin.com/in/ooluis/">Contact</a>
   </p>
 </p>
 
+# DevChallenge :)
+[DevChallenge](https://devchallenge.now.sh/) permite que você evolua suas skills como programador! Participe da nossa comunidade o/
 
+# Desafio
+Seu desafio é criar um [web scraping](https://pt.wikipedia.org/wiki/Coleta_de_dados_web) para consultar um cep no site dos correios
 
-# Welcome :)
-<a href="https://devchallenge.now.sh/"> DevChallenge</a> allow you to improve your skills!
+# Tecnologias: 
+A que você quiser :)
+Porém, se estiver indecisx, pode usar uma dessas sugestões:
+- Javascript
+  - [jsdom](https://www.npmjs.com/package/jsdom)
+  - [cheerio](https://www.npmjs.com/package/cheerio)
+  - [puppeteer](https://www.npmjs.com/package/puppeteer)
+  - [playwright](https://github.com/microsoft/playwright)
+- Python
+  - [request](https://requests.readthedocs.io/en/master/)
+  - [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+  - [selenium](https://selenium-python.readthedocs.io/)
+  - [scrapy](https://docs.scrapy.org/en/latest/)
 
-# Challenge
-Your challenge is to build a landing page about a website that create graphics.<br><br>
-Seu desafio é criar uma página sobre um site de criação de gráficos.
+# Por onde começar:
+1 - Use esse template ou baixe esse repositório com o código inicial  
+2 - Leia as instruções no [Readme.md](https://github.com/filiafobico/devchallenge-webscraping-correios/blob/master/README.md)  
+3 - Comece a codar!  
+4 - Compartilhe seu resultado - e dúvidas - com a [comunidade](https://discord.gg/yvYXhGj) :)  
 
-<img src="https://trello-attachments.s3.amazonaws.com/590fa7f5a8ab015d0cf88052/590fa896d2d25e50583de620/cb82a7069f698bde3bafb4ea20316951/mockuper_(1)_(1).png" width="380" height="380">
+# Compartilhe!
+Inicie seu projeto utilizando esse template no seu github como um repositório público  
+Faça um print, gif ou vídeo e compartilhe o resultado com a #devchallenge ou marcando o perfil @devchallenge!  
+(me marca também @filiafobico)
 
-# Techs: 
-HTML<br>
-CSS
-
-# Getting start:
-1 - Use this template or download this repository with the starter code<br>
-2 - Read the instructions in readme.md<br>
-3 - Start coding!<br>
-4 - Share your results with the community :)<br>
-<br>
-1 - Use esse template ou baixe esse repositório com o código inicial<br>
-2 - Leia as instruções no readme.md<br>
-3 - Comece a codar!<br>
-4 - Compartilhe seu resultado com a comunidade :)<br>
-
-
-# Requirements:
-- Your page should get it looking as close to the design as possible<br>
-- Your page should be responsive<br>
-<br>
-
-- Sua página deve se parecer o mais próximo possível do design<br>
-- Sua página deve ser responsiva<br>
-
-
-<img src="https://trello-attachments.s3.amazonaws.com/590fa7f5a8ab015d0cf88052/590fa896d2d25e50583de620/255f1d04baf02f7e818c6e4ec36ddddf/desktop.png" width="380" height="380">
-
-
-Feel free to use any workflow you are comfortable with :)
-
-# Colors:
-Orange: #D2872C<br>
-Gray: #766F68
-
-# Design:
-Design available in `./design` path<br>
-Images available in `./assets` path<br>
-<br>
-Modelo disponível na pasta `./design`<br>
-Imagens disponíveis na pasta `./assets`<br>
-
-# Font family:
-- Roboto
-
-# Share!
-Initialize your project with this template in your github as a public repository<br>
-Capture a screenshot, gif or video and share your result in Linkedin<br>
-Send me a feedback in  <a href="https://www.linkedin.com/in/lorenagmontes/">Linkedin</a>!<br>
-
-Designed and created by  <a href="https://github.com/Lorenalgm">Lorena</a> :)
+Criado por [filiafobico](https://github.com/filiafobico/) :)
